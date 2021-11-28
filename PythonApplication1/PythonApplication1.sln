@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{B7A57DA2-244F-48FC-B8C9-214CC7FDDC40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{AC27173F-29F3-44C3-AC7C-BDACBD0B71BD}"
+	ProjectSection(SolutionItems) = preProject
+		mole.png = mole.png
+		..\..\..\..\..\proyek animasi\img\palu.png = ..\..\..\..\..\proyek animasi\img\palu.png
+		PythonApplication1\palu1.png = PythonApplication1\palu1.png
+		PythonApplication1\palu2.png = PythonApplication1\palu2.png
+		tanah.png = tanah.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A57DA2-244F-48FC-B8C9-214CC7FDDC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A57DA2-244F-48FC-B8C9-214CC7FDDC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86073BA-E69C-419D-83FE-FC8789221F84}
+	EndGlobalSection
+EndGlobal

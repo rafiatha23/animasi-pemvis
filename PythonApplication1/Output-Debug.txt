@@ -1,0 +1,147 @@
+﻿'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\pythonw.exe'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\vcruntime140.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\python37.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\python3.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\base.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\SDL2.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Symbols loaded.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\constants.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\rect.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\rwobject.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\surflock.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\color.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\bufferproxy.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\math.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\display.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\surface.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\draw.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\event.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\image.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\imageext.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\SDL2_image.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\libjpeg-9.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\libpng16-16.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\zlib1.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\joystick.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\key.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\mouse.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\time.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\mask.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_queue.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\pixelcopy.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\pixelarray.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\transform.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\font.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\SDL2_ttf.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\libfreetype-6.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\mixer_music.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\SDL2_mixer.dll'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\mixer.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\scrap.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_ctypes.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\.libs\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll'. 
+'pythonw.exe' (Win32): Unloaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\.libs\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll'
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\.libs\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\core\_multiarray_umath.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\core\_multiarray_tests.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_socket.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\select.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\linalg\lapack_lite.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\linalg\_umath_linalg.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\fft\_pocketfft_internal.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\mtrand.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\bit_generator.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_common.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_hashlib.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\libcrypto-1_1.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_bounded_integers.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_mt19937.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_philox.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_pcg64.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_sfc64.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\numpy\random\_generator.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\fastevent.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pygame\_freetype.cp37-win_amd64.pyd'. Module was built without symbols.
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_bz2.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\_lzma.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\DLLs\pyexpat.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\win32\win32api.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pywin32_system32\pywintypes37.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\secur32.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\win32\_win32sysloader.pyd'. 
+'pythonw.exe' (Win32): Loaded 'C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\Lib\site-packages\pywin32_system32\pythoncom37.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\urlmon.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\netutils.dll'. 
+'pythonw.exe' (Win32): Loaded 'C:\Windows\System32\srvcli.dll'. 
+The thread 0x5120 has exited with code 0 (0x0).
+avcore\audiocore\client\audioclient\audioclientcore.cpp(1856)\AUDIOSES.DLL!00007FFC69B77EF4: (caller: 00007FFBF703CF31) ReturnHr(1) tid(2448) 80070057 The parameter is incorrect.
+'pythonw.exe' (Win32): Unloaded 'C:\Windows\System32\avrt.dll'
+The thread 0x5350 has exited with code 0 (0x0).
+The thread 0x2098 has exited with code 1 (0x1).
+The thread 0x1670 has exited with code 1 (0x1).
+The thread 0x4d2c has exited with code 1 (0x1).
+The thread 0x4ebc has exited with code 1 (0x1).
+The thread 0x3414 has exited with code 1 (0x1).
+The thread 0x3948 has exited with code 1 (0x1).
+The thread 0x13ec has exited with code 1 (0x1).
+The thread 0x32bc has exited with code 1 (0x1).
+The thread 0x52c has exited with code 1 (0x1).
+The thread 0x20ec has exited with code 1 (0x1).
+The thread 0x515c has exited with code 1 (0x1).
+The thread 0x3970 has exited with code 1 (0x1).
+The thread 0x1490 has exited with code 1 (0x1).
+The program '[11616] pythonw.exe' has exited with code 1 (0x1).
